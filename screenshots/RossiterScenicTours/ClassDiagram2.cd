@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="RossiterScenicTours.ClsCost">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAgAAEAAgAQIAAAAAEAAAAAQAAAAACBAA=</HashCode>
+      <FileName>ClsCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.ClsOtherCost">
+    <Position X="2.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAgAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsOtherCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.ClsStaffMemberCost">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgIAAABgAYAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsStaffMemberCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.ClsTour">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CJAgAgAAAAAoEAEEAAhAQEAgAAAgIBBAAGAkCUAIAAA=</HashCode>
+      <FileName>ClsTour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.ClsTourCompany">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAIAAAAAABEAAAAAAAAAAAAEAAAAAAEAAAAAIAAA=</HashCode>
+      <FileName>ClsTourCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.ClsVehicleCost">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAgAAAAAgAYAQABCAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClsVehicleCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.FrmCost">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIgABSAAAAEAAACAAEECAAAABBAAABAABAAABAA=</HashCode>
+      <FileName>FrmCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.FrmMain">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="RossiterScenicTours.FrmMain.ClsStartDateComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FrmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="RossiterScenicTours.FrmMain.ClsTourNameComparer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>FrmMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AwAAABAAASAAAAASAAiAIBAiAAAQQQBABIAAACAAQAA=</HashCode>
+      <FileName>FrmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.FrmOtherCost">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAAAACAAEACAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>FrmOtherCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.FrmStaffMemberCost">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAASAAAJAAAACAAAACAAAAAAAAAAAAAAAADAQ=</HashCode>
+      <FileName>FrmStaffMemberCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.FrmTour">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQASQGxQRyAQAkAAIICpAIESCAgEAfIgAMABEAAABgQ=</HashCode>
+      <FileName>FrmTour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.FrmVehicleCost">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAgAAACAAAACAAAAAAAAACAAIAAABgA=</HashCode>
+      <FileName>FrmVehicleCost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.Program">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.Properties.Resources">
+    <Position X="11" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RossiterScenicTours.Properties.Settings">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
